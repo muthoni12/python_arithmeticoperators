@@ -1,0 +1,18 @@
+'''
+Data Types:
+1. String: contains alphanumeric vales. e.g "Sam Tomashi 17"
+username = Tomashi #Declaring a variable of type string implicitly
+username = str("Tomashi") #Declaring a variable of type string explicitly
+
+2. Integer (int): contains whole numbers from 0 to infinity
+age = 18
+age= int(18)
+
+3. Float : Decimal values
+price = 23.67
+price = float(23.67)
+
+4. Boolean: expecting either true or false
+isUserLoggedIn = true
+
+'''
