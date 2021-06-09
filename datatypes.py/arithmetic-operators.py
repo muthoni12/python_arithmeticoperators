@@ -39,8 +39,8 @@ def calculateVAT(inclusivePrice, vatTax):
     return inclusivePrice
 
 def userInput():
-    inclusivePrice = float(input("inclusive price"))
-    vatTax = float(input("vatTax"))
+    inclusivePrice = input("inclusive price"))
+    vatTax = input("vatTax"))
 
     calculateVAT(inclusivePrice, vatTax):
 
